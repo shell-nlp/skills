@@ -1,0 +1,4 @@
+interface:
+  display_name: "数据库表设计"
+  short_description: "根据需求输出建表方案、字段索引约束与Markdown文档"
+  default_prompt: "使用 $database-table-designer 根据这些需求产出最佳建表方案，并输出最终 Markdown 设计文档。"
